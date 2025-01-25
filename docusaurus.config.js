@@ -23,6 +23,7 @@ const config = {
   organizationName: 'NJIT-Robotics-Club', // Usually your GitHub org/user name.
   projectName: 'roboticsclubwiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  githubPort: '22',
   
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
