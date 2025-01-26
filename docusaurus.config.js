@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NJIT-Robotics-Club', // Usually your GitHub org/user name.
   projectName: 'roboticsclubwiki.github.io', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+
   
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,8 +44,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/NJIT-Robotics-Club/roboticsclubwiki.github.io/',
+         // editUrl:
+         //   'https://github.com/NJIT-Robotics-Club/roboticsclubwiki.github.io/',
         },
         /**
         blog: {
