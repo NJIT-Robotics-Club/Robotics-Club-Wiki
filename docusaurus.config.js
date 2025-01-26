@@ -44,11 +44,11 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-           'https://github.com/NJIT-Robotics-Club/roboticsclubwiki.github.io/',
+//          editUrl:
+//           'https://github.com/NJIT-Robotics-Club/roboticsclubwiki.github.io/',
         },
         
-        blog: {
+      /*  blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -63,7 +63,7 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
-        
+       */ 
         theme: {
           customCss: './src/css/custom.css',
         },
